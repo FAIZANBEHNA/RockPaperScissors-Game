@@ -1,3 +1,24 @@
+Rock Paper Scissors Game
+This is a simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. I created this project to strengthen my front-end development skills, especially DOM manipulation and event handling in JavaScript.
+
+Technologies Used:
+HTML5 – For structuring the web page
+CSS3 – For styling the user interface and adding hover effects
+JavaScript (Vanilla JS) – For handling game logic, user interaction, and dynamic UI updates
+
+Features:
+Clickable icons for Rock, Paper, and Scissors
+Real-time score tracking for user and computer
+Dynamic result message display (Win / Lose / Draw)
+Random computer move generation
+Clean and responsive UI
+
+Future Improvements:
+Add sound effects
+Add animations
+Make it mobile responsive
+Add difficulty levels or a timer-based version
+
 <img width="1917" height="1003" alt="Screenshot 2025-07-22 123344" src="https://github.com/user-attachments/assets/1ac3645a-7c29-47cc-b435-928cc8da9baf" />
 <img width="1919" height="1001" alt="Screenshot 2025-07-22 123416" src="https://github.com/user-attachments/assets/96dd5708-25b9-42cb-83ff-cb052ac8942c" />
 <img width="1919" height="1004" alt="Screenshot 2025-07-22 123432" src="https://github.com/user-attachments/assets/8b1871dc-ef92-42af-9157-621b14030973" />
