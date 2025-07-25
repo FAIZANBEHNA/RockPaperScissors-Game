@@ -1,10 +1,11 @@
-<h2>Rock Paper Scissors Game</h2> <br>
+<h1>Rock Paper Scissors Game</h1> <br>
 This is a simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. I created this project to strengthen my front-end development skills, especially DOM manipulation and event handling in JavaScript.
 
-Technologies Used:
-HTML5 – For structuring the web page
-CSS3 – For styling the user interface and adding hover effects
-JavaScript (Vanilla JS) – For handling game logic, user interaction, and dynamic UI updates
+<h2>Technologies Used:</h2>
+<l1>
+<ul>HTML5 – For structuring the web page</ul>
+<ul>CSS3 – For styling the user interface and adding hover effects</ul>
+<ul>JavaScript (Vanilla JS) – For handling game logic, user interaction, and dynamic UI updates</ul>
 
 Features:
 Clickable icons for Rock, Paper, and Scissors
